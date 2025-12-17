@@ -168,6 +168,6 @@ This is a course project, but feedback and suggestions are welcome! Please open 
 
 ---
 
-**Course**: DATA650 — Advanced Data Science  
+**Course**: DATA650 — Cloud Computing 
 **Institution**: University of Maryland, College Park  
 **Semester**: Fall 2025
