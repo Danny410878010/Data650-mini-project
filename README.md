@@ -154,14 +154,6 @@ gpu_mem_used_mb_avg, ...
 
 ---
 
-## Interpretation Hints
-
-- **Throughput drops with longer sequences**: KV-cache pressure and/or memory bandwidth may be the bottleneck
-- **Latency improves then worsens with batching**: You may be hitting GPU memory limits or scheduling overhead
-- **Framework differences**: Look for where one framework significantly outperforms the other and consider why (batching strategy, kernel optimization, memory management)
-
----
-
 ## Contributing
 
 This is a course project, but feedback and suggestions are welcome! Please open an issue or submit a pull request.
